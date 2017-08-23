@@ -326,6 +326,7 @@
 				7EE6080A1F4D60AC00CB9173 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
