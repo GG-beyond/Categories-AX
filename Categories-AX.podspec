@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
 
 
   s.name         = "Categories-AX"
-  s.version      = "0.0.2"
+  s.version      = "0.0.3"
   s.summary      = "练习组件化的类目"
 
   s.description  = <<-DESC
