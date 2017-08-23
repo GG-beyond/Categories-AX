@@ -19,7 +19,7 @@ Pod::Spec.new do |s|
 
   s.author             = { "GG-beyond" => "872608550@qq.com" }
 
-  s.source       = { :git => "https://github.com/GG-beyond/Categories-AX.git", :tag => "1.0.0" }
+  s.source       = { :git => "https://github.com/GG-beyond/Categories-AX.git", :tag => "0.0.1" }
 
 
   s.source_files  = "Categories-AX", "Categories-AX/**/*.{h,m}"
