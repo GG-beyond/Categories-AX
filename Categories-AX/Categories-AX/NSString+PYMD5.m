@@ -7,7 +7,6 @@
 //
 
 #import "NSString+PYMD5.h"
-#import <CommonCrypto/CommonDigest.h>
 
 @implementation NSString (PYMD5)
 
