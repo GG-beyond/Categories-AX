@@ -4,10 +4,10 @@ Pod::Spec.new do |s|
 
   s.name         = "Categories-AX"
   s.version      = "0.0.1"
-  s.summary      = "A short description of Categories-AX.练习组件化的类目"
+  s.summary      = "练习组件化的类目"
 
  s.description  = <<-DESC
-		练习组件化的类目
+		练习组件化的类目，测试而已，感谢作者。
                    DESC
 
   s.homepage     = "https://github.com/GG-beyond/Categories-AX"

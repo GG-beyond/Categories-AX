@@ -65,7 +65,6 @@
         return str;
     }
     //不是float数值
-    debugLog(@"不是float数值");
     return str;
 }
 @end
