@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
 
 
   s.name         = "Categories-AX"
-  s.version      = "0.0.9"
+  s.version      = "0.1.0"
   s.summary      = "练习组件化的类目"
 
   s.description  = <<-DESC
@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
   s.license      = "MIT"
   s.author             = { "GG-beyond" => "872608550@qq.com" }
 
-  s.source       = { :git => "https://github.com/GG-beyond/Categories-AX.git", :tag => "0.0.9" }
+  s.source       = { :git => "https://github.com/GG-beyond/Categories-AX.git", :tag => "0.1.0" }
 
   s.source_files  = "Categories-AX/Categories-AX/*.{h,m}"
   s.exclude_files = "Classes/Exclude"
